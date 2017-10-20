@@ -1,0 +1,4 @@
+Wight1 4
+Wight2 4
+Wolf1 2
+Wolf2 2
